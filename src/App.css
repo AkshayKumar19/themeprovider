@@ -544,9 +544,6 @@ li{
         .thetext{
             display: none;
         }
-        .wrap-1 .row{
-            padding: 0 !important;
-        }
         .wrap-1 .col-1{
             display: none;
         }
