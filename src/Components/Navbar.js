@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="wrap-1 shadow z4">
         <div className="container-xl navside">
           <div className="row py-3 align-items-center">
-            <div className="col-md-3 col-8">
+            <div className=" col-8 col-md-3">
               <Link to = "/"><img src="img/logo.png" alt="" className="img-fluid" /></Link>
             </div>
             <div className="col-1 col-md-7">
