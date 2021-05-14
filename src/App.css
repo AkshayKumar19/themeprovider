@@ -550,4 +550,7 @@ li{
         .wrap-1 .col-1{
             display: none;
         }
+        .wrap-1 .col-3{
+            padding: 0 !important;
+        }
 }
