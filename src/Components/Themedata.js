@@ -55,7 +55,7 @@ const wordpresstheme = [
         author: "undsgn"
     },
     {
-        img: "img/soledad.png",
+        img: "img/Soledad.png",
         price: "59",
         heading: " WoodMart – Responsive WooCommerce woordpress Theme",
         author: "undsgn"
