@@ -333,8 +333,8 @@ li{
     background-color: #FF9400;
     padding: 16px 10px;
     position: absolute;
-    top: 44%;
-    left: 80%;
+    top: 80%;
+    right: 0;
     border: 1px solid #fff;
 }
 .themesimg .price{
