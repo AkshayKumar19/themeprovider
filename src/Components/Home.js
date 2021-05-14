@@ -15,7 +15,7 @@ const Home = () => {
                         <div className="row">
                             <div className="col-md-6 col-lg-3 col-6 mt-5">
                                 <div className="cards shadow p-2 py-3 rounded text-center">
-                                    <img src="../img/the.png" alt="" className="img-fluid" />
+                                    <img src="img/the.png" alt="" className="img-fluid" />
                                     <Link to="#" className="text-center ">ThemeForest</Link>
                                     <p className="text-warning"><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i></p>
                                     <div className="thetext">
@@ -27,7 +27,7 @@ const Home = () => {
                             </div>
                             <div className="col-md-6 col-lg-3 col-6 mt-5">
                                 <div className="cards shadow p-2 py-3 rounded text-center">
-                                    <img src="../img/thrive-themes.png" alt="" className="img-fluid" />
+                                    <img src="img/thrive-themes.png" alt="" className="img-fluid" />
                                     <Link to="#" className="text-center">ThriveThemes</Link>
                                     <p className="text-warning"><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i></p>
                                     <div className="thetext">
@@ -39,7 +39,7 @@ const Home = () => {
                             </div>
                             <div className="col-md-6 col-lg-3  col-6 mt-5">
                                 <div className="cards shadow p-2 py-3 rounded text-center">
-                                    <img src="../img/elegantthemes.png" alt="" className="img-fluid" />
+                                    <img src="img/elegantthemes.png" alt="" className="img-fluid" />
                                     <Link to="#" className="text-center">Elegant Themes</Link>
                                     <p className="text-warning"><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i></p>
                                    <div className="thetext">
@@ -51,7 +51,7 @@ const Home = () => {
                             </div>
                             <div className="col-md-6 col-lg-3  col-6 mt-5">
                                 <div className="cards shadow p-2 py-3 rounded text-center">
-                                    <img src="../img/themify.png" alt="" className="img-fluid" />
+                                    <img src="img/themify.png" alt="" className="img-fluid" />
                                     <Link to="#" className="text-center">Themify</Link>
                                     <p className="text-warning"><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star-half-alt"></i></p>
                                    <div className="thetext">
@@ -136,7 +136,7 @@ const Home = () => {
                         <li>Be SEO-friendly in order to get a lot of traffic and high conversion rates.</li>
                     </ul>
                     <h3 className="mt-4">Building Your Website With WordPress Themes: Do’s And Don’ts</h3>
-                    <img src="../img/besttheme.png" alt="" className="img-fluid mt-4" />
+                    <img src="img/besttheme.png" alt="" className="img-fluid mt-4" />
                     <p className="mt-5">While developing websites with WordPress, you have option to choose from thousands of open source and paid themes. Each WordPress theme enables you to design the user interface of the website without writing longer lines of code. You can take advantage of the front-end styling components – page layout, font styling, graphics, colours and widget location – to control the look of your website and content presentation across various browsers. But you must remember that WordPress has a much larger worldwide market share than other content management systems. A single theme may be used by a large number of websites. Hence, there are always chances that a theme may look your website identical to several other websites. You need to focus on a number of do’s and don’ts while selecting and using WordPress Themes.</p>
 
                     <h3><strong>Do’s</strong></h3>
@@ -168,7 +168,7 @@ const Home = () => {
 
 
                     <h2><strong>Benefits Of Using Premium WordPress Themes</strong></h2>
-                    <img src="../img/Benefits.jpg" className="img-fluid mt-4" alt="" />
+                    <img src="img/Benefits.jpg" className="img-fluid mt-4" alt="" />
                     <p className="mt-5">If you have the budget, go for a custom designed WordPress theme instead of settling for a free one. But don’t just go to any WordPress theme designers. To get the most out of your theme, make sure you deal with an experienced and SEO-knowledgeable WordPress template designer / developer. Based from experience, a good designer will cost you somewhere between 3K to 5K depending on your design requirements. If you choose to settle for a custom designed WordPress theme, you should understand that sooner or later, you will have to pay for the developer to upgrade your theme in case WordPress releases a newer version. If you’re OK with the above, then a custom designed WordPress theme is highly recommended for you. Alternatively, you can settle for the next best thing – Premium WordPress themes.</p>
                     <p className="mt-3">Using premium themes like Thesis, Headway, Genesis and Catalyst gives you an edge in terms of customization and SEO. These themes are coded by no less than the experts so you can be sure they are compliant to established web standards. They are also compatible to virtually every internet browser so you don’t have to worry about how your website will look when viewed in any browser. These are just a few benefits that is available to you if you opt to use a Premium WordPress theme.</p>
                     <h3>Premium WP themes Are Cost Efficient</h3>

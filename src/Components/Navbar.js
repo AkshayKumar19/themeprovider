@@ -11,7 +11,7 @@ const Navbar = () => {
         <div className="container-xl navside">
           <div className="row py-3 align-items-center">
             <div className="col-md-3 col-8">
-              <Link to = "/"><img src="../img/logo.png" alt="" className="img-fluid" /></Link>
+              <Link to = "/"><img src="img/logo.png" alt="" className="img-fluid" /></Link>
             </div>
             <div className="col-1 col-md-7">
               <nav className="mt-2">
@@ -51,7 +51,7 @@ const Navbar = () => {
             status ? <div className="togglenav">
               <div className="toggleside">
                 <button className="hidetoggle" onClick={() => setStatus(false)}><i className="fas fa-times"></i></button>
-                <Link to="/" className="d-block mt-5"><img src="../img/logo.png" alt="" /></Link>
+                <Link to="/" className="d-block mt-5"><img src="img/logo.png" alt="" /></Link>
                 <ul className="sidenav">
                   <li><NavLink exact to="/">Home</NavLink></li>
                   <li><NavLink to="/hosting">Top 10 Wordpress Hosting Providers</NavLink></li>

@@ -1,163 +1,163 @@
 const wordpresstheme = [
     {
-        img: "../img/Avada.png",
+        img: "img/Avada.png",
         price: "61",
         heading: "Avada | Website Builder For WordPress & WooCommerce",
         author: "ThemeFusion"
     },
     {
-        img: "../img/evds.png",
+        img: "img/evds.png",
         price: "39",
         heading: "The7 — Multi-Purpose Website Building Toolkit for WordPress",
         author: "Dream-Theme"
 
     },
     {
-        img: "../img/drhfbc.png",
+        img: "img/drhfbc.png",
         price: "59",
         heading: "Flatsome | Multi-Purpose Responsive WooCommerce Theme",
         author: "UX-themes"
     },
     {
-        img: "../img/rfvc.png",
+        img: "img/rfvc.png",
         price: "59",
         heading: "BeTheme - Responsive Multi-Purpose WordPress Theme",
         author: "muffingroup"
     },
     {
-        img: "../img/td.png",
+        img: "img/td.png",
         price: "59",
         heading: "Bridge - Creative Multipurpose WordPress Theme",
         author: "QODE"
     },
     {
-        img: "../img/grvdtt.png",
+        img: "img/grvdtt.png",
         price: "59",
         heading: "Enfold - Responsive Multi-Purpose Themes",
         author: "Kriesi"
     },
     {
-        img: "../img/vdsc.png",
+        img: "img/vdsc.png",
         price: "59",
         heading: " Porto | Multipurpose & WooCommerce Theme",
         author: "p-themes"
     },
     {
-        img: "../img/dvvd.png",
+        img: "img/dvvd.png",
         price: "59",
         heading: " Uncode – Creative Multiuse & WooCommerce Theme",
         author: "undsgn"
     },
     {
-        img: "../img/edddddd.png",
+        img: "img/edddddd.png",
         price: "59",
         heading: " WoodMart – Responsive WooCommerce woordpress Theme",
         author: "undsgn"
     },
     {
-        img: "../img/soledad.png",
+        img: "img/soledad.png",
         price: "59",
         heading: " WoodMart – Responsive WooCommerce woordpress Theme",
         author: "undsgn"
     },
     {
-        img: "../img/fefe.png",
+        img: "img/fefe.png",
         price: "59",
         heading: " Newspaper",
         author: "undsgn"
     },
     {
-        img: "../img/sx.png",
+        img: "img/sx.png",
         price: "60",
         heading: " Jupiter – Elementor Multi-Purpose Theme",
         author: "undsgn"
     },
     {
-        img: "../img/op.png",
+        img: "img/op.png",
         price: "60",
         heading: " Salient – Responsive Multi-Purpose Theme",
         author: "undsgn"
     },
     {
-        img: "../img/8955.png",
+        img: "img/8955.png",
         price: "60",
         heading: "  Salient – Responsive Multi-Purpose Theme",
         author: "ThemeNectar"
     },
     {
-        img: "../img/TheGem.png",
+        img: "img/TheGem.png",
         price: "60",
         heading: " TheGem – Creative Multi-Purpose  Theme",
         author: "CodexThemes"
     },
     {
-        img: "../img/Impreza.png",
+        img: "img/Impreza.png",
         price: "60",
         heading: " Impreza – Multi-Purpose WordPress Theme",
         author: "UpSolution"
     },
     {
-        img: "../img/Phlox-Pro.png",
+        img: "img/Phlox-Pro.png",
         price: "60",
         heading: " Phlox Pro – Elementor MultiPurpose WordPress Theme",
         author: "averta"
     },
     {
-        img: "../img/XStore.png",
+        img: "img/XStore.png",
         price: "59",
         heading: " XStore | Highly Customizable WooCommerce",
         author: "8theme"
     },
     {
-        img: "../img/Goya.png",
+        img: "img/Goya.png",
         price: "49",
         heading: " Goya – Modern WooCommerce Theme",
         author: "luisvelaz"
     },
     {
-        img: "../img/Eduma.png",
+        img: "img/Eduma.png",
         price: "48",
         heading: "Education WordPress Theme | Eduma",
         author: "luisvelaz"
     },
     {
-        img: "../img/X.png",
+        img: "img/X.png",
         price: "47",
         heading: "X | The Theme",
         author: "luisvelaz"
     },
     {
-        img: "../img/wsdesfr.png",
+        img: "img/wsdesfr.png",
         price: "46",
         heading: "Education WordPress Theme – Masterstudy",
         author: "StylemixThemes"
     },
     {
-        img: "../img/Brooklyn.png",
+        img: "img/Brooklyn.png",
         price: "45",
         heading: " Brooklyn | Creative Multi-Purpose Responsiv",
         author: "UnitedThemes"
     },
     {
-        img: "../img/Essentials.png",
+        img: "img/Essentials.png",
         price: "43",
         heading: "Essentials | Multipurpose WordPress Theme",
         author: "UnitedThemes"
     },
     {
-        img: "../img/89526.png",
+        img: "img/89526.png",
         price: "40",
         heading: "Ohio – Creative Portfolio & Agency WordPress",
         author: "colabrio"
     },
     {
-        img: "../img/89526.png",
+        img: "img/89526.png",
         price: "30",
         heading: "RealHomes – Estate Sale and Rental WordPress",
         author: "colabrio"
     },
     {
-        img: "../img/wds.png",
+        img: "img/wds.png",
         price: "33",
         heading: " REHub – Price Comparison, Multi Vendor",
         author: "colabrio"
@@ -165,49 +165,49 @@ const wordpresstheme = [
 ]
 export const Blogdata = [
     {
-        img: '../img/blog/blog1.jpg',
+        img: 'img/blog/blog1.jpg',
         heading: "Why DreamHost is the Best Web Hosting Service Provider in the Market?",
         date: "August 14, 2020",
         details: "Introduction  DreamHost is one of the maximum-well known and famous net web website hosting carrier vendors withinside the ..."
     },
     {
-        img: '../img/blog/blog2.png',
+        img: 'img/blog/blog2.png',
         heading: "Why to choose hostgator templates for a quick niche website?",
         date: "July 14, 2020",
         details: "There are so many different options when it comes to website building. Everyone has a preference for some ..."
     },
     {
-        img: '../img/blog/blog3.png',
+        img: 'img/blog/blog3.png',
         heading: "Top 10 Web Hosting Trends in 2020 For for all business",
         date: "June 29, 2020",
         details: "Are you looking for the top 10 web hosting trends in 2020? If yes then your search ends ..."
     },
     {
-        img: '../img/blog/blog4.png',
+        img: 'img/blog/blog4.png',
         heading: "Some things to watch out for when choosing a WordPress theme",
         date: "july 29, 2020",
         details: "Some things to watch out for when choosing a WordPress theme Are you the one who is stuck ..."
     },
     {
-        img: '../img/blog/blog5.png',
+        img: 'img/blog/blog5.png',
         heading: "Why Elegant Themes Divi Is So Famous",
         date: "july 29, 2020",
         details: "What are elegant themes divi? Divi by elegant themes is quite a popular theme. This exceptional theme works ..."
     },
     {
-        img: '../img/blog/blog6.jpg',
+        img: 'img/blog/blog6.jpg',
         heading: "Business Relevant themeforest Shopify themes and templates",
         date: "June 6, 2020",
         details: "Shopify is literally ruling the eCommerce world these days. It is a great platform and undoubtedly has some ..."
     },
     {
-        img: '../img/blog/blog7.png',
+        img: 'img/blog/blog7.png',
         heading: "What Are The Best SEO Plugins For WordPress 2020",
         date: "June 6, 2020",
         details: "Best SEO Plugins For WordPress and Tools WordPress is one of the most widely used CMS across the ..."
     },
     {
-        img: '../img/blog/blog8.jpg',
+        img: 'img/blog/blog8.jpg',
         heading: "Important Tips and Tricks to Build a Successful WordPress Landing Page",
         date: "June 6, 2020",
         details: "Easy Steps For Create WordPress Landing Page WordPress Landing Page : Every business nowadays thrives in a competitive ..."
@@ -215,77 +215,77 @@ export const Blogdata = [
 ]
 export const themeprovider = [
     {
-        img: "../img/the.png",
+        img: "img/the.png",
         heading: "ThemeForest"
     },
     {
-        img: "../img/thrive-themes.png",
+        img: "img/thrive-themes.png",
         heading: "ThriveThemes"
     },
     {
-        img: "../img/elegantthemes.png",
+        img: "img/elegantthemes.png",
         heading: "ElegantThemes"
     },
     {
-        img: "../img/themify.png",
+        img: "img/themify.png",
         heading: "Themify"
     },
     {
-        img: "../img/ThemeAtlas.png",
+        img: "img/ThemeAtlas.png",
         heading: "ThemeAtlas"
     },
     {
-        img: "../img/Ithemes.png",
+        img: "img/Ithemes.png",
         heading: "Ithemes"
     },
     {
-        img: "../img/Hasthemes.png",
+        img: "img/Hasthemes.png",
         heading: "Hasthemes"
     },
 ]
 
 export const hostingdata = [
     {
-        img:"../img/hosting/ipage.png",
+        img:"img/hosting/ipage.png",
         heading:"Ipage"
     },
     {
-        img:"../img/hosting/a2hosting.png",
+        img:"img/hosting/a2hosting.png",
         heading:"A2 Hosting"
     },
     {
-        img:"../img/hosting/bluehost.png",
+        img:"img/hosting/bluehost.png",
         heading:"Bluehost"
     },
     {
-        img:"../img/hosting/hostinger.png",
+        img:"img/hosting/hostinger.png",
         heading:"Hostinger"
     },
     {
-        img:"../img/hosting/hostwinds.png",
+        img:"img/hosting/hostwinds.png",
         heading:"Hostwinds"
     },
     {
-        img:"../img/hosting/greengreeks.png",
+        img:"img/hosting/greengreeks.png",
         heading:"GreenGreeks"
     },
     {
-        img:"../img/hosting/dreamhost.png",
+        img:"img/hosting/dreamhost.png",
         heading:"Dreamhost"
     },
     {
-        img:"../img/hosting/namecheap.png",
+        img:"img/hosting/namecheap.png",
         heading:"Namecheap"
     },
     {
-        img:"../img/hosting/evds.png",
+        img:"img/hosting/evds.png",
         heading:"HostGator"
     },
 ]
 
 export const primtheme = [
     {
-        img:"../img/theme/Clever-Course.png",
+        img:"img/theme/Clever-Course.png",
         heading:"Clever Course – Education / LMS",
         date:" May 3, 2021",
         para:"Clever Course is a LMS (Learning Management System) wordpress theme. It?s suitable for school, university, college, education etc..",
@@ -293,7 +293,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/CBKit.png",
+        img:"img/theme/CBKit.png",
         heading:"Course & LMS WordPress Theme | CBKit",
         date:" May 3, 2021",
         para:"The WordPress LMS Course Builder theme is a multi-purpose, high quality eLearning WordPress LMS (Learning management system) for teachers, instructors, ...",
@@ -301,7 +301,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/WPLMS.png",
+        img:"img/theme/WPLMS.png",
         heading:"WPLMS Learning Management System for WordPress, Education Theme",
         date:" May 3, 2021",
         para:"WordPress LMS, Learning Management System for WordPress, WordPress Education theme built on BuddyPress. It is built on PWA ...",
@@ -309,7 +309,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Colead.png",
+        img:"img/theme/Colead.png",
         heading:"Colead | Coaching & Online Courses WordPress Theme",
         date:" May 3, 2021",
         para:"Speaker & Life Coach WordPress Theme (Coaching WP) is a stunning, flexible and multipurpose WP theme for speakers, mentors, ...",
@@ -317,7 +317,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Academy.png",
+        img:"img/theme/Academy.png",
         heading:"Academy – Learning Management Theme",
         date:" May 3, 2021",
         para:"Academy is a perfect theme for sharing and selling your knowledge online. It’s not just a theme, but ...",
@@ -325,7 +325,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/LMS.png",
+        img:"img/theme/LMS.png",
         heading:"LMS WordPress Theme",
         date:" May 3, 2021",
         para:"Learning Management System & Online Courses WordPress Theme Most trusted Online Learning Management System WordPress theme. Best for e-Learning, online ...",
@@ -333,7 +333,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/The-Keynote.png",
+        img:"img/theme/The-Keynote.png",
         heading:"The Keynote – Conference / Event WordPress",
         date:" May 3, 2021",
         para:"The Keynote is a clean responsive WordPress theme. It?s especially designed for Conference, Meeting, Exhibition, Congresses, Event, Conference Website, Event ...",
@@ -341,7 +341,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/University.png",
+        img:"img/theme/University.png",
         heading:"University – Education, Event and Course Theme",
         date:" May 3, 2021",
         para:"University WordPress theme is great for Education Institute, Events, Courses and even Learning Management System, Business and Shopping. This education ...",
@@ -349,7 +349,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Grand-College.png",
+        img:"img/theme/Grand-College.png",
         heading:"Grand College – WordPress Theme For Education",
         date:" May 3, 2021",
         para:"Grand College is the best theme for School, University, College or even your business. It’s clean and modern designed ...",
@@ -357,7 +357,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Funio.png",
+        img:"img/theme/Funio.png",
         heading:"Funio – Furniture WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Funio – Funiture WooCommerce WordPress Theme Funio by Wpbingo is a strong WP theme for Funiture WooCommerce stores. ...",
@@ -365,7 +365,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Clima.png",
+        img:"img/theme/Clima.png",
         heading:"Clima – Responsive WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Clima is a Multipurpose WordPress Theme with powerful theme framework cosmetic store, digital store, furniture store, watch store. ..",
@@ -373,7 +373,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Cerio.png",
+        img:"img/theme/Cerio.png",
         heading:"Cerio – Fashion WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Cerio – Fashion WooCommerce WordPress Theme Cerio by Wpbingo is a strong WP theme for Fashion WooCommerce stores. ...",
@@ -381,7 +381,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Covan.png",
+        img:"img/theme/Covan.png",
         heading:"Covan – Cosmetics WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Covan – Cosmetics WooCommerce WordPress Theme Covan by Wpbingo is a strong WP theme for Cosmetics WooCommerce stores. ...",
@@ -389,7 +389,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Reeco.png",
+        img:"img/theme/Reeco.png",
         heading:"Reeco – Furniture WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Furniture Store WooCommerce WordPress Theme Reeco is a responsive, clean and modern WordPress Theme built with WooCommerce and ...",
@@ -397,7 +397,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Azeno.png",
+        img:"img/theme/Azeno.png",
         heading:"Azeno – Sport Store WooCommerce Theme",
         date:" May 3, 2021",
         para:"Azeno – Sport Store WooCommerce Theme Azeno by Wpbingo is a strong WP theme for Sport WooCommerce stores. ...",
@@ -405,7 +405,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Shopwise.png",
+        img:"img/theme/Shopwise.png",
         heading:"Shopwise – Fashion Store WooCommerce Theme",
         date:" May 3, 2021",
         para:"eCommerce Minimalist WooCommerce WordPress Theme for Fashion Store, Furniture Store and Electronics Store If you are planning to ...",
@@ -413,7 +413,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Agrikon.png",
+        img:"img/theme/Agrikon.png",
         heading:"Agrikon – Organic Food & Agriculture WooCommerce Theme",
         date:" May 3, 2021",
         para:"Agrikon – Responsive Agriculture, Organic Food, Farm, Organic Shop / Store, Grocery and Livestock Elementor Based WooCommerce WordPress Theme ...",
@@ -421,7 +421,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Zixton.png",
+        img:"img/theme/Zixton.png",
         heading:"Zixton – Baby Fashion WooCommerce Theme",
         date:" May 3, 2021",
         para:"Zixton is a cool and appealing modern Woocommerce WordPress theme. It’s perfectly suitable for selling baby clothing, kids ...",
@@ -429,7 +429,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Wicky.png",
+        img:"img/theme/Wicky.png",
         heading:"Wicky – Wine Shop WooCommerce Theme",
         date:" May 3, 2021",
         para:"Wicky – Wine & Vineyard WooCommerce WordPress Theme Wicky by Wpbingo is a strong WP theme for Wine ...",
@@ -437,7 +437,7 @@ export const primtheme = [
         type:"Premium"
     },
     {
-        img:"../img/theme/Avada.png",
+        img:"img/theme/Avada.png",
         heading:"Avada- Website Builder For WordPress & WooCommerce",
         date:" May 3, 2021",
         para:"  The Avada Website Builder, version 7.0, is out in the wild! The Avada Website Builder is the ...",
@@ -445,7 +445,7 @@ export const primtheme = [
         type:"Popular"
     },
     {
-        img:"../img/theme/evds.png",
+        img:"img/theme/evds.png",
         heading:"The7 — Multi-Purpose Website Building Toolkit for WordPress",
         date:" May 3, 2021",
         para:" Compatible with WordPress 5.7 and WooCommerce 5.0. GDPR ready. Full WordPress 5 compatibility. Full Elementor, Elementor Pro and PRO Elements compatibility. Full WooCommerce compatibility. Full Gutenberg compatibility. The7 | the ...",
@@ -453,7 +453,7 @@ export const primtheme = [
         type:"Popular"
     },
     {
-        img:"../img/theme/drhfbc.png",
+        img:"img/theme/drhfbc.png",
         heading:"Flatsome | Multi-Purpose Responsive WooCommerce Theme",
         date:" May 3, 2021",
         para:" Compatible with WordPress 5.7+ and WooCommerce 4.9/5.0+ Multi-Purpose Responsive WordPress & WooCommerce Theme with incredible User Experience Flatsome ...",
@@ -461,7 +461,7 @@ export const primtheme = [
         type:"Popular"
     },
     {
-        img:"../img/theme/rfvc.png",
+        img:"img/theme/rfvc.png",
         heading:"BeTheme – Responsive Multi-Purpose WordPress Theme",
         date:" May 3, 2021",
         para:" Full WordPress 5.7 compatibility Full Elementor and Elementor Pro compatibility Full WooCommerce 5.1 compatibility GDPR Ready   Betheme is the best product we ever did. This is more than ...",
@@ -469,7 +469,7 @@ export const primtheme = [
         type:"Popular"
     },
     {
-        img:"../img/theme/td.png",
+        img:"img/theme/td.png",
         heading:"Bridge – Creative Multipurpose WordPress Theme",
         date:" May 3, 2021",
         para:"BRIDGE is a responsive retina multipurpose WordPress theme perfect for just about anyone. Whether you are a creative, a ...",
@@ -477,7 +477,7 @@ export const primtheme = [
         type:"Popular"
     },
     {
-        img:"../img/theme/grvdtt.png",
+        img:"img/theme/grvdtt.png",
         heading:"Enfold – Responsive Multi-Purpose Theme ",
         date:" May 3, 2021",
         para:"Enfold is a clean, super flexible and fully responsive WordPress Theme (try resizing your browser), suited for business websites, shop websites, and users who want to showcase their ...",
@@ -485,7 +485,7 @@ export const primtheme = [
         type:"Popular"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -493,7 +493,7 @@ export const primtheme = [
         type:"Popular"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -501,7 +501,7 @@ export const primtheme = [
         type:"Popular"
     },
     {
-        img:"../img/theme/University.png",
+        img:"img/theme/University.png",
         heading:"University – Education, Event and Course Theme",
         date:" May 3, 2021",
         para:"University WordPress theme is great for Education Institute, Events, Courses and even Learning Management System, Business and Shopping. This education ...",
@@ -509,7 +509,7 @@ export const primtheme = [
         type:"Entertainment"
     },
     {
-        img:"../img/theme/Grand-College.png",
+        img:"img/theme/Grand-College.png",
         heading:"Grand College – WordPress Theme For Education",
         date:" May 3, 2021",
         para:"Grand College is the best theme for School, University, College or even your business. It’s clean and modern designed ...",
@@ -517,7 +517,7 @@ export const primtheme = [
         type:"Entertainment"
     },
     {
-        img:"../img/theme/Funio.png",
+        img:"img/theme/Funio.png",
         heading:"Funio – Furniture WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Funio – Funiture WooCommerce WordPress Theme Funio by Wpbingo is a strong WP theme for Funiture WooCommerce stores. ...",
@@ -525,7 +525,7 @@ export const primtheme = [
         type:"Entertainment"
     },
     {
-        img:"../img/theme/Clima.png",
+        img:"img/theme/Clima.png",
         heading:"Clima – Responsive WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Clima is a Multipurpose WordPress Theme with powerful theme framework cosmetic store, digital store, furniture store, watch store. ..",
@@ -533,7 +533,7 @@ export const primtheme = [
         type:"Entertainment"
     },
     {
-        img:"../img/theme/Cerio.png",
+        img:"img/theme/Cerio.png",
         heading:"Cerio – Fashion WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Cerio – Fashion WooCommerce WordPress Theme Cerio by Wpbingo is a strong WP theme for Fashion WooCommerce stores. ...",
@@ -541,7 +541,7 @@ export const primtheme = [
         type:"Entertainment"
     },
     {
-        img:"../img/theme/Covan.png",
+        img:"img/theme/Covan.png",
         heading:"Covan – Cosmetics WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Covan – Cosmetics WooCommerce WordPress Theme Covan by Wpbingo is a strong WP theme for Cosmetics WooCommerce stores. ...",
@@ -549,7 +549,7 @@ export const primtheme = [
         type:"Entertainment"
     },
     {
-        img:"../img/theme/Reeco.png",
+        img:"img/theme/Reeco.png",
         heading:"Reeco – Furniture WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Furniture Store WooCommerce WordPress Theme Reeco is a responsive, clean and modern WordPress Theme built with WooCommerce and ...",
@@ -557,7 +557,7 @@ export const primtheme = [
         type:"Entertainment"
     },
     {
-        img:"../img/theme/Azeno.png",
+        img:"img/theme/Azeno.png",
         heading:"Azeno – Sport Store WooCommerce Theme",
         date:" May 3, 2021",
         para:"Azeno – Sport Store WooCommerce Theme Azeno by Wpbingo is a strong WP theme for Sport WooCommerce stores. ...",
@@ -565,7 +565,7 @@ export const primtheme = [
         type:"Entertainment"
     },
     {
-        img:"../img/theme/td.png",
+        img:"img/theme/td.png",
         heading:"Bridge – Creative Multipurpose WordPress Theme",
         date:" May 3, 2021",
         para:"BRIDGE is a responsive retina multipurpose WordPress theme perfect for just about anyone. Whether you are a creative, a ...",
@@ -573,7 +573,7 @@ export const primtheme = [
         type:"Real_Estate"
     },
     {
-        img:"../img/theme/grvdtt.png",
+        img:"img/theme/grvdtt.png",
         heading:"Enfold – Responsive Multi-Purpose Theme ",
         date:" May 3, 2021",
         para:"Enfold is a clean, super flexible and fully responsive WordPress Theme (try resizing your browser), suited for business websites, shop websites, and users who want to showcase their ...",
@@ -581,7 +581,7 @@ export const primtheme = [
         type:"Real_Estate"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -589,7 +589,7 @@ export const primtheme = [
         type:"Real_Estate"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -597,7 +597,7 @@ export const primtheme = [
         type:"Real_Estate"
     },
     {
-        img:"../img/theme/University.png",
+        img:"img/theme/University.png",
         heading:"University – Education, Event and Course Theme",
         date:" May 3, 2021",
         para:"University WordPress theme is great for Education Institute, Events, Courses and even Learning Management System, Business and Shopping. This education ...",
@@ -605,7 +605,7 @@ export const primtheme = [
         type:"Real_Estate"
     },
     {
-        img:"../img/theme/Grand-College.png",
+        img:"img/theme/Grand-College.png",
         heading:"Grand College – WordPress Theme For Education",
         date:" May 3, 2021",
         para:"Grand College is the best theme for School, University, College or even your business. It’s clean and modern designed ...",
@@ -613,7 +613,7 @@ export const primtheme = [
         type:"Real_Estate"
     },
     {
-        img:"../img/theme/Funio.png",
+        img:"img/theme/Funio.png",
         heading:"Funio – Furniture WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Funio – Funiture WooCommerce WordPress Theme Funio by Wpbingo is a strong WP theme for Funiture WooCommerce stores. ...",
@@ -621,7 +621,7 @@ export const primtheme = [
         type:"Real_Estate"
     },
     {
-        img:"../img/theme/Clima.png",
+        img:"img/theme/Clima.png",
         heading:"Clima – Responsive WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Clima is a Multipurpose WordPress Theme with powerful theme framework cosmetic store, digital store, furniture store, watch store. ..",
@@ -629,7 +629,7 @@ export const primtheme = [
         type:"Real_Estate"
     },
     {
-        img:"../img/theme/Cerio.png",
+        img:"img/theme/Cerio.png",
         heading:"Cerio – Fashion WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Cerio – Fashion WooCommerce WordPress Theme Cerio by Wpbingo is a strong WP theme for Fashion WooCommerce stores. ...",
@@ -637,7 +637,7 @@ export const primtheme = [
         type:"Real_Estate"
     },
     {
-        img:"../img/theme/Covan.png",
+        img:"img/theme/Covan.png",
         heading:"Covan – Cosmetics WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Covan – Cosmetics WooCommerce WordPress Theme Covan by Wpbingo is a strong WP theme for Cosmetics WooCommerce stores. ...",
@@ -645,7 +645,7 @@ export const primtheme = [
         type:"Real_Estate"
     },
     {
-        img:"../img/theme/Clima.png",
+        img:"img/theme/Clima.png",
         heading:"Clima – Responsive WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Clima is a Multipurpose WordPress Theme with powerful theme framework cosmetic store, digital store, furniture store, watch store. ..",
@@ -653,7 +653,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/Cerio.png",
+        img:"img/theme/Cerio.png",
         heading:"Cerio – Fashion WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Cerio – Fashion WooCommerce WordPress Theme Cerio by Wpbingo is a strong WP theme for Fashion WooCommerce stores. ...",
@@ -661,7 +661,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/Covan.png",
+        img:"img/theme/Covan.png",
         heading:"Covan – Cosmetics WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Covan – Cosmetics WooCommerce WordPress Theme Covan by Wpbingo is a strong WP theme for Cosmetics WooCommerce stores. ...",
@@ -669,7 +669,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/Reeco.png",
+        img:"img/theme/Reeco.png",
         heading:"Reeco – Furniture WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Furniture Store WooCommerce WordPress Theme Reeco is a responsive, clean and modern WordPress Theme built with WooCommerce and ...",
@@ -677,7 +677,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/Azeno.png",
+        img:"img/theme/Azeno.png",
         heading:"Azeno – Sport Store WooCommerce Theme",
         date:" May 3, 2021",
         para:"Azeno – Sport Store WooCommerce Theme Azeno by Wpbingo is a strong WP theme for Sport WooCommerce stores. ...",
@@ -685,7 +685,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/Shopwise.png",
+        img:"img/theme/Shopwise.png",
         heading:"Shopwise – Fashion Store WooCommerce Theme",
         date:" May 3, 2021",
         para:"eCommerce Minimalist WooCommerce WordPress Theme for Fashion Store, Furniture Store and Electronics Store If you are planning to ...",
@@ -693,7 +693,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/Agrikon.png",
+        img:"img/theme/Agrikon.png",
         heading:"Agrikon – Organic Food & Agriculture WooCommerce Theme",
         date:" May 3, 2021",
         para:"Agrikon – Responsive Agriculture, Organic Food, Farm, Organic Shop / Store, Grocery and Livestock Elementor Based WooCommerce WordPress Theme ...",
@@ -701,7 +701,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/Zixton.png",
+        img:"img/theme/Zixton.png",
         heading:"Zixton – Baby Fashion WooCommerce Theme",
         date:" May 3, 2021",
         para:"Zixton is a cool and appealing modern Woocommerce WordPress theme. It’s perfectly suitable for selling baby clothing, kids ...",
@@ -709,7 +709,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/Wicky.png",
+        img:"img/theme/Wicky.png",
         heading:"Wicky – Wine Shop WooCommerce Theme",
         date:" May 3, 2021",
         para:"Wicky – Wine & Vineyard WooCommerce WordPress Theme Wicky by Wpbingo is a strong WP theme for Wine ...",
@@ -717,7 +717,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/Avada.png",
+        img:"img/theme/Avada.png",
         heading:"Avada- Website Builder For WordPress & WooCommerce",
         date:" May 3, 2021",
         para:"  The Avada Website Builder, version 7.0, is out in the wild! The Avada Website Builder is the ...",
@@ -725,7 +725,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/evds.png",
+        img:"img/theme/evds.png",
         heading:"The7 — Multi-Purpose Website Building Toolkit for WordPress",
         date:" May 3, 2021",
         para:" Compatible with WordPress 5.7 and WooCommerce 5.0. GDPR ready. Full WordPress 5 compatibility. Full Elementor, Elementor Pro and PRO Elements compatibility. Full WooCommerce compatibility. Full Gutenberg compatibility. The7 | the ...",
@@ -733,7 +733,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/drhfbc.png",
+        img:"img/theme/drhfbc.png",
         heading:"Flatsome | Multi-Purpose Responsive WooCommerce Theme",
         date:" May 3, 2021",
         para:" Compatible with WordPress 5.7+ and WooCommerce 4.9/5.0+ Multi-Purpose Responsive WordPress & WooCommerce Theme with incredible User Experience Flatsome ...",
@@ -741,7 +741,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/rfvc.png",
+        img:"img/theme/rfvc.png",
         heading:"BeTheme – Responsive Multi-Purpose WordPress Theme",
         date:" May 3, 2021",
         para:" Full WordPress 5.7 compatibility Full Elementor and Elementor Pro compatibility Full WooCommerce 5.1 compatibility GDPR Ready   Betheme is the best product we ever did. This is more than ...",
@@ -749,7 +749,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/td.png",
+        img:"img/theme/td.png",
         heading:"Bridge – Creative Multipurpose WordPress Theme",
         date:" May 3, 2021",
         para:"BRIDGE is a responsive retina multipurpose WordPress theme perfect for just about anyone. Whether you are a creative, a ...",
@@ -757,7 +757,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/grvdtt.png",
+        img:"img/theme/grvdtt.png",
         heading:"Enfold – Responsive Multi-Purpose Theme ",
         date:" May 3, 2021",
         para:"Enfold is a clean, super flexible and fully responsive WordPress Theme (try resizing your browser), suited for business websites, shop websites, and users who want to showcase their ...",
@@ -765,7 +765,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -773,7 +773,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -781,7 +781,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/University.png",
+        img:"img/theme/University.png",
         heading:"University – Education, Event and Course Theme",
         date:" May 3, 2021",
         para:"University WordPress theme is great for Education Institute, Events, Courses and even Learning Management System, Business and Shopping. This education ...",
@@ -789,7 +789,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/Grand-College.png",
+        img:"img/theme/Grand-College.png",
         heading:"Grand College – WordPress Theme For Education",
         date:" May 3, 2021",
         para:"Grand College is the best theme for School, University, College or even your business. It’s clean and modern designed ...",
@@ -797,7 +797,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/Funio.png",
+        img:"img/theme/Funio.png",
         heading:"Funio – Furniture WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Funio – Funiture WooCommerce WordPress Theme Funio by Wpbingo is a strong WP theme for Funiture WooCommerce stores. ...",
@@ -805,7 +805,7 @@ export const primtheme = [
         type:"Nonprofit"
     },
     {
-        img:"../img/theme/drhfbc.png",
+        img:"img/theme/drhfbc.png",
         heading:"Flatsome | Multi-Purpose Responsive WooCommerce Theme",
         date:" May 3, 2021",
         para:" Compatible with WordPress 5.7+ and WooCommerce 4.9/5.0+ Multi-Purpose Responsive WordPress & WooCommerce Theme with incredible User Experience Flatsome ...",
@@ -813,7 +813,7 @@ export const primtheme = [
         type:"Corporate"
     },
     {
-        img:"../img/theme/rfvc.png",
+        img:"img/theme/rfvc.png",
         heading:"BeTheme – Responsive Multi-Purpose WordPress Theme",
         date:" May 3, 2021",
         para:" Full WordPress 5.7 compatibility Full Elementor and Elementor Pro compatibility Full WooCommerce 5.1 compatibility GDPR Ready   Betheme is the best product we ever did. This is more than ...",
@@ -821,7 +821,7 @@ export const primtheme = [
         type:"Corporate"
     },
     {
-        img:"../img/theme/td.png",
+        img:"img/theme/td.png",
         heading:"Bridge – Creative Multipurpose WordPress Theme",
         date:" May 3, 2021",
         para:"BRIDGE is a responsive retina multipurpose WordPress theme perfect for just about anyone. Whether you are a creative, a ...",
@@ -829,7 +829,7 @@ export const primtheme = [
         type:"Corporate"
     },
     {
-        img:"../img/theme/grvdtt.png",
+        img:"img/theme/grvdtt.png",
         heading:"Enfold – Responsive Multi-Purpose Theme ",
         date:" May 3, 2021",
         para:"Enfold is a clean, super flexible and fully responsive WordPress Theme (try resizing your browser), suited for business websites, shop websites, and users who want to showcase their ...",
@@ -837,7 +837,7 @@ export const primtheme = [
         type:"Corporate"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -845,7 +845,7 @@ export const primtheme = [
         type:"Corporate"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -853,7 +853,7 @@ export const primtheme = [
         type:"Corporate"
     },
     {
-        img:"../img/theme/University.png",
+        img:"img/theme/University.png",
         heading:"University – Education, Event and Course Theme",
         date:" May 3, 2021",
         para:"University WordPress theme is great for Education Institute, Events, Courses and even Learning Management System, Business and Shopping. This education ...",
@@ -861,7 +861,7 @@ export const primtheme = [
         type:"Corporate"
     },
     {
-        img:"../img/theme/Grand-College.png",
+        img:"img/theme/Grand-College.png",
         heading:"Grand College – WordPress Theme For Education",
         date:" May 3, 2021",
         para:"Grand College is the best theme for School, University, College or even your business. It’s clean and modern designed ...",
@@ -869,7 +869,7 @@ export const primtheme = [
         type:"Corporate"
     },
     {
-        img:"../img/theme/Funio.png",
+        img:"img/theme/Funio.png",
         heading:"Funio – Furniture WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Funio – Funiture WooCommerce WordPress Theme Funio by Wpbingo is a strong WP theme for Funiture WooCommerce stores. ...",
@@ -877,7 +877,7 @@ export const primtheme = [
         type:"Corporate"
     },
     {
-        img:"../img/theme/grvdtt.png",
+        img:"img/theme/grvdtt.png",
         heading:"Enfold – Responsive Multi-Purpose Theme ",
         date:" May 3, 2021",
         para:"Enfold is a clean, super flexible and fully responsive WordPress Theme (try resizing your browser), suited for business websites, shop websites, and users who want to showcase their ...",
@@ -885,7 +885,7 @@ export const primtheme = [
         type:"Creative"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -893,7 +893,7 @@ export const primtheme = [
         type:"Creative"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -901,7 +901,7 @@ export const primtheme = [
         type:"Creative"
     },
     {
-        img:"../img/theme/University.png",
+        img:"img/theme/University.png",
         heading:"University – Education, Event and Course Theme",
         date:" May 3, 2021",
         para:"University WordPress theme is great for Education Institute, Events, Courses and even Learning Management System, Business and Shopping. This education ...",
@@ -909,7 +909,7 @@ export const primtheme = [
         type:"Creative"
     },
     {
-        img:"../img/theme/Grand-College.png",
+        img:"img/theme/Grand-College.png",
         heading:"Grand College – WordPress Theme For Education",
         date:" May 3, 2021",
         para:"Grand College is the best theme for School, University, College or even your business. It’s clean and modern designed ...",
@@ -917,7 +917,7 @@ export const primtheme = [
         type:"Creative"
     },
     {
-        img:"../img/theme/Funio.png",
+        img:"img/theme/Funio.png",
         heading:"Funio – Furniture WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Funio – Funiture WooCommerce WordPress Theme Funio by Wpbingo is a strong WP theme for Funiture WooCommerce stores. ...",
@@ -925,7 +925,7 @@ export const primtheme = [
         type:"Creative"
     },
     {
-        img:"../img/theme/Clima.png",
+        img:"img/theme/Clima.png",
         heading:"Clima – Responsive WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Clima is a Multipurpose WordPress Theme with powerful theme framework cosmetic store, digital store, furniture store, watch store. ..",
@@ -933,7 +933,7 @@ export const primtheme = [
         type:"Creative"
     },
     {
-        img:"../img/theme/Cerio.png",
+        img:"img/theme/Cerio.png",
         heading:"Cerio – Fashion WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Cerio – Fashion WooCommerce WordPress Theme Cerio by Wpbingo is a strong WP theme for Fashion WooCommerce stores. ...",
@@ -941,7 +941,7 @@ export const primtheme = [
         type:"Creative"
     },
     {
-        img:"../img/theme/Covan.png",
+        img:"img/theme/Covan.png",
         heading:"Covan – Cosmetics WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Covan – Cosmetics WooCommerce WordPress Theme Covan by Wpbingo is a strong WP theme for Cosmetics WooCommerce stores. ...",
@@ -949,7 +949,7 @@ export const primtheme = [
         type:"Creative"
     },
     {
-        img:"../img/theme/Clima.png",
+        img:"img/theme/Clima.png",
         heading:"Clima – Responsive WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Clima is a Multipurpose WordPress Theme with powerful theme framework cosmetic store, digital store, furniture store, watch store. ..",
@@ -957,7 +957,7 @@ export const primtheme = [
         type:"Creative"
     },
     {
-        img:"../img/theme/Cerio.png",
+        img:"img/theme/Cerio.png",
         heading:"Cerio – Fashion WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Cerio – Fashion WooCommerce WordPress Theme Cerio by Wpbingo is a strong WP theme for Fashion WooCommerce stores. ...",
@@ -965,7 +965,7 @@ export const primtheme = [
         type:"Creative"
     },
     {
-        img:"../img/theme/Covan.png",
+        img:"img/theme/Covan.png",
         heading:"Covan – Cosmetics WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Covan – Cosmetics WooCommerce WordPress Theme Covan by Wpbingo is a strong WP theme for Cosmetics WooCommerce stores. ...",
@@ -973,7 +973,7 @@ export const primtheme = [
         type:"Creative"
     },
     {
-        img:"../img/theme/LMS.png",
+        img:"img/theme/LMS.png",
         heading:"LMS WordPress Theme",
         date:" May 3, 2021",
         para:"Learning Management System & Online Courses WordPress Theme Most trusted Online Learning Management System WordPress theme. Best for e-Learning, online ...",
@@ -981,7 +981,7 @@ export const primtheme = [
         type:"Wedding"
     },
     {
-        img:"../img/theme/The-Keynote.png",
+        img:"img/theme/The-Keynote.png",
         heading:"The Keynote – Conference / Event WordPress",
         date:" May 3, 2021",
         para:"The Keynote is a clean responsive WordPress theme. It?s especially designed for Conference, Meeting, Exhibition, Congresses, Event, Conference Website, Event ...",
@@ -989,7 +989,7 @@ export const primtheme = [
         type:"Wedding"
     },
     {
-        img:"../img/theme/University.png",
+        img:"img/theme/University.png",
         heading:"University – Education, Event and Course Theme",
         date:" May 3, 2021",
         para:"University WordPress theme is great for Education Institute, Events, Courses and even Learning Management System, Business and Shopping. This education ...",
@@ -997,7 +997,7 @@ export const primtheme = [
         type:"Wedding"
     },
     {
-        img:"../img/theme/Grand-College.png",
+        img:"img/theme/Grand-College.png",
         heading:"Grand College – WordPress Theme For Education",
         date:" May 3, 2021",
         para:"Grand College is the best theme for School, University, College or even your business. It’s clean and modern designed ...",
@@ -1005,7 +1005,7 @@ export const primtheme = [
         type:"Wedding"
     },
     {
-        img:"../img/theme/Funio.png",
+        img:"img/theme/Funio.png",
         heading:"Funio – Furniture WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Funio – Funiture WooCommerce WordPress Theme Funio by Wpbingo is a strong WP theme for Funiture WooCommerce stores. ...",
@@ -1013,7 +1013,7 @@ export const primtheme = [
         type:"Wedding"
     },
     {
-        img:"../img/theme/Clima.png",
+        img:"img/theme/Clima.png",
         heading:"Clima – Responsive WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Clima is a Multipurpose WordPress Theme with powerful theme framework cosmetic store, digital store, furniture store, watch store. ..",
@@ -1021,7 +1021,7 @@ export const primtheme = [
         type:"Wedding"
     },
     {
-        img:"../img/theme/Cerio.png",
+        img:"img/theme/Cerio.png",
         heading:"Cerio – Fashion WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Cerio – Fashion WooCommerce WordPress Theme Cerio by Wpbingo is a strong WP theme for Fashion WooCommerce stores. ...",
@@ -1029,7 +1029,7 @@ export const primtheme = [
         type:"Wedding"
     },
     {
-        img:"../img/theme/Covan.png",
+        img:"img/theme/Covan.png",
         heading:"Covan – Cosmetics WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Covan – Cosmetics WooCommerce WordPress Theme Covan by Wpbingo is a strong WP theme for Cosmetics WooCommerce stores. ...",
@@ -1037,7 +1037,7 @@ export const primtheme = [
         type:"Wedding"
     },
     {
-        img:"../img/theme/drhfbc.png",
+        img:"img/theme/drhfbc.png",
         heading:"Flatsome | Multi-Purpose Responsive WooCommerce Theme",
         date:" May 3, 2021",
         para:" Compatible with WordPress 5.7+ and WooCommerce 4.9/5.0+ Multi-Purpose Responsive WordPress & WooCommerce Theme with incredible User Experience Flatsome ...",
@@ -1045,7 +1045,7 @@ export const primtheme = [
         type:"BuddyPress"
     },
     {
-        img:"../img/theme/rfvc.png",
+        img:"img/theme/rfvc.png",
         heading:"BeTheme – Responsive Multi-Purpose WordPress Theme",
         date:" May 3, 2021",
         para:" Full WordPress 5.7 compatibility Full Elementor and Elementor Pro compatibility Full WooCommerce 5.1 compatibility GDPR Ready   Betheme is the best product we ever did. This is more than ...",
@@ -1053,7 +1053,7 @@ export const primtheme = [
         type:"BuddyPress"
     },
     {
-        img:"../img/theme/td.png",
+        img:"img/theme/td.png",
         heading:"Bridge – Creative Multipurpose WordPress Theme",
         date:" May 3, 2021",
         para:"BRIDGE is a responsive retina multipurpose WordPress theme perfect for just about anyone. Whether you are a creative, a ...",
@@ -1061,7 +1061,7 @@ export const primtheme = [
         type:"BuddyPress"
     },
     {
-        img:"../img/theme/grvdtt.png",
+        img:"img/theme/grvdtt.png",
         heading:"Enfold – Responsive Multi-Purpose Theme ",
         date:" May 3, 2021",
         para:"Enfold is a clean, super flexible and fully responsive WordPress Theme (try resizing your browser), suited for business websites, shop websites, and users who want to showcase their ...",
@@ -1069,7 +1069,7 @@ export const primtheme = [
         type:"BuddyPress"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -1077,7 +1077,7 @@ export const primtheme = [
         type:"BuddyPress"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -1085,7 +1085,7 @@ export const primtheme = [
         type:"BuddyPress"
     },
     {
-        img:"../img/theme/University.png",
+        img:"img/theme/University.png",
         heading:"University – Education, Event and Course Theme",
         date:" May 3, 2021",
         para:"University WordPress theme is great for Education Institute, Events, Courses and even Learning Management System, Business and Shopping. This education ...",
@@ -1093,7 +1093,7 @@ export const primtheme = [
         type:"BuddyPress"
     },
     {
-        img:"../img/theme/Grand-College.png",
+        img:"img/theme/Grand-College.png",
         heading:"Grand College – WordPress Theme For Education",
         date:" May 3, 2021",
         para:"Grand College is the best theme for School, University, College or even your business. It’s clean and modern designed ...",
@@ -1101,7 +1101,7 @@ export const primtheme = [
         type:"BuddyPress"
     },
     {
-        img:"../img/theme/Funio.png",
+        img:"img/theme/Funio.png",
         heading:"Funio – Furniture WooCommerce WordPress Theme",
         date:" May 3, 2021",
         para:"Funio – Funiture WooCommerce WordPress Theme Funio by Wpbingo is a strong WP theme for Funiture WooCommerce stores. ...",
@@ -1109,7 +1109,7 @@ export const primtheme = [
         type:"BuddyPress"
     },
     {
-        img:"../img/theme/grvdtt.png",
+        img:"img/theme/grvdtt.png",
         heading:"Enfold – Responsive Multi-Purpose Theme ",
         date:" May 3, 2021",
         para:"Enfold is a clean, super flexible and fully responsive WordPress Theme (try resizing your browser), suited for business websites, shop websites, and users who want to showcase their ...",
@@ -1117,7 +1117,7 @@ export const primtheme = [
         type:"BuddyPress"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -1125,7 +1125,7 @@ export const primtheme = [
         type:"BuddyPress"
     },
     {
-        img:"../img/theme/evds.png",
+        img:"img/theme/evds.png",
         heading:"The7 — Multi-Purpose Website Building Toolkit for WordPress",
         date:" May 3, 2021",
         para:" Compatible with WordPress 5.7 and WooCommerce 5.0. GDPR ready. Full WordPress 5 compatibility. Full Elementor, Elementor Pro and PRO Elements compatibility. Full WooCommerce compatibility. Full Gutenberg compatibility. The7 | the ...",
@@ -1133,7 +1133,7 @@ export const primtheme = [
         type:"Blog"
     },
     {
-        img:"../img/theme/drhfbc.png",
+        img:"img/theme/drhfbc.png",
         heading:"Flatsome | Multi-Purpose Responsive WooCommerce Theme",
         date:" May 3, 2021",
         para:" Compatible with WordPress 5.7+ and WooCommerce 4.9/5.0+ Multi-Purpose Responsive WordPress & WooCommerce Theme with incredible User Experience Flatsome ...",
@@ -1141,7 +1141,7 @@ export const primtheme = [
         type:"Blog"
     },
     {
-        img:"../img/theme/rfvc.png",
+        img:"img/theme/rfvc.png",
         heading:"BeTheme – Responsive Multi-Purpose WordPress Theme",
         date:" May 3, 2021",
         para:" Full WordPress 5.7 compatibility Full Elementor and Elementor Pro compatibility Full WooCommerce 5.1 compatibility GDPR Ready   Betheme is the best product we ever did. This is more than ...",
@@ -1149,7 +1149,7 @@ export const primtheme = [
         type:"Blog"
     },
     {
-        img:"../img/theme/td.png",
+        img:"img/theme/td.png",
         heading:"Bridge – Creative Multipurpose WordPress Theme",
         date:" May 3, 2021",
         para:"BRIDGE is a responsive retina multipurpose WordPress theme perfect for just about anyone. Whether you are a creative, a ...",
@@ -1157,7 +1157,7 @@ export const primtheme = [
         type:"Blog"
     },
     {
-        img:"../img/theme/grvdtt.png",
+        img:"img/theme/grvdtt.png",
         heading:"Enfold – Responsive Multi-Purpose Theme ",
         date:" May 3, 2021",
         para:"Enfold is a clean, super flexible and fully responsive WordPress Theme (try resizing your browser), suited for business websites, shop websites, and users who want to showcase their ...",
@@ -1165,7 +1165,7 @@ export const primtheme = [
         type:"Blog"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -1173,7 +1173,7 @@ export const primtheme = [
         type:"Blog"
     },
     {
-        img:"../img/theme/vdsc.png",
+        img:"img/theme/vdsc.png",
         heading:"Porto | Multipurpose & WooCommerce Theme",
         date:" May 3, 2021",
         para:"  Porto WordPress is an ultimate business & woocommerce wordpress theme that is suitable for any business and ...",
@@ -1181,7 +1181,7 @@ export const primtheme = [
         type:"Blog"
     },
     {
-        img:"../img/theme/University.png",
+        img:"img/theme/University.png",
         heading:"University – Education, Event and Course Theme",
         date:" May 3, 2021",
         para:"University WordPress theme is great for Education Institute, Events, Courses and even Learning Management System, Business and Shopping. This education ...",
